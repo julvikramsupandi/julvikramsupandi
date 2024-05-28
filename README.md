@@ -1,6 +1,7 @@
-### Hi everyone 👋
-
+<p>
 <img src="https://github.com/julvikramsupandi/julvikramsupandi/assets/37796466/8c1538b7-88d0-4906-a374-7d979492c240"  width="240" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World...!;i'm+Julvikram+Supandi+👋"/>  
+</p>
 
 for freelance work? do reach, [email](mailto:julvikram.supandi@gmail.com) 😊
 
